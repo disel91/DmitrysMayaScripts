@@ -1,5 +1,5 @@
 # DmitrysMayaScripts
-Maya scripts I created as part of learning Python. The scripts are provided free of charge.
+Maya scripts I created as part of learning Python. The scripts are provided free of charge under GPL Licence.
 
 
 ----------- Script #1 - Shield Generator
