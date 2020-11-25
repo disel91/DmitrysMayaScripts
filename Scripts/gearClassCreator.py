@@ -45,5 +45,5 @@ class Gear(object):
         cmds.polyExtrudeFacet (self.extrude, edit=True,ltz=length)
 
     def bevelGeo (self):
-        cmds.select(all=True)
+        cmds.ls(sl=True)
         cmds.polyBevel(segments=1, offset=0.02)
