@@ -15,7 +15,7 @@ Installation:
   
 ----------- Script #2 / #3 - Animation Tweener / Gear Generator
 
-Animation Tweener - Allows to adjust animation by adding extra frames.
+Animation Tweener - Allows to adjust animation by adding extra frames. Select the frame on the playback slider where you want to adjust the animation and use the slider in the UI to adjust it.
 Gear Generator - Allows to generate gears with different amount of teeth and bevel in real time.
 
 Installation:
