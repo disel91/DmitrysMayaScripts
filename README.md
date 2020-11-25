@@ -8,7 +8,7 @@ Created a scattered set of objects from selection. The amount of objects can be 
 
 Installation:
 
-1) Dropt the "shield_Generator.py" in your Documents>maya>Maya####>scripts folder
+1) Dropt the "shield_Generator" in your Documents>maya>Maya####>scripts folder
 
 2) In Maya:
   Script Editor>File>Open Script> select shield_Generator.py and press File>Save Script to Shelf
@@ -21,7 +21,7 @@ Gear Generator - Allows to generate gears with different amount of teeth and bev
 
 Installation:
 
-1) Dropt the "gearClassCreator.py", "tweenerUI.py", and "reusableUI.py" in your Documents>maya>Maya####>scripts folder
+1) Dropt the "gearClassCreator", "tweenerUI", and "reusableUI" in your Documents>maya>Maya####>scripts folder
 
 2) In Maya:
   In Script Editor write:
